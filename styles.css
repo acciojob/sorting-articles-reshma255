@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url('forest-background.jpg'); /* Replace with actual image path */
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 2rem;
+  max-width: 500px;
+  margin: 5rem auto;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 1.5rem;
+}
+
+li {
+  margin: 0.5rem 0;
+  font-size: 1.1rem;
+}
